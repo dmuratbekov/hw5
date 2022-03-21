@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 500px;
+    height: 500px;
+    border: 10px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.move{
+    font: 80px sans-serif;
+    color: #fff;
+    text-shadow: 0 0 10px black;
+}
